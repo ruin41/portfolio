@@ -22,7 +22,7 @@ Next.jsとSupabaseを用いたSE用のマッチングアプリ風転職サイト
 - CI/CD：GitHub Actions（ESLint）
 
 ## 設計ドキュメント
-[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート][([https://docs.google.com/spreadsheets/d/1yBssPgoUI_8TMwVZA2hWOLQj3-l7oirLB2FQ1YJgCww/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1YHzkrmUaLCRMExcWm0qv2Yr_Px2eHnPCH-5-jPPW9BE/edit?gid=983827669#gid=983827669))](https://docs.google.com/spreadsheets/d/1YHzkrmUaLCRMExcWm0qv2Yr_Px2eHnPCH-5-jPPW9BE/edit?gid=74722085#gid=74722085)
+[要件定義・基本設計・詳細設計の一覧_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1YHzkrmUaLCRMExcWm0qv2Yr_Px2eHnPCH-5-jPPW9BE/edit?gid=983827669#gid=983827669)
 
 詳細設計時のワイヤーフレーム、ER図、ワークフロー図の画像はdocsディレクトリに格納しています。（[こちらからアクセス](./docs)）
 
