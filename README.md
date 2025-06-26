@@ -53,7 +53,7 @@ Next.jsとSupabaseを用いたSE用のマッチングアプリ風転職サイト
 [テスト・修正の設計及び実施書_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1FvDvHquW-M33XrAGH0t1HMZPw9Mdp7hiY1oATilu3Y0/edit?gid=0#gid=0)
 
 ## アプリの改善案
-[アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1fgynpBKhx8zaNkMweeYVQl52bP6Z8dJZOmmY8MHXjQM/edit?usp=sharing)
+[アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1P5C5et2X4FSdpowBbhluUjMu7Lu0RZ84VsPR9geTYJc/edit?gid=482600378#gid=482600378)
 
 ## 備考
 [ESLintの実行結果_GitHub Actions](https://github.com/aihat9161/PortfolioExample_Next.js_BlogAppWorX_ENGINEER-CLASS/actions/runs/14956271682/job/42012343864)
