@@ -6,12 +6,12 @@ Next.jsとSupabaseを用いたSE用のマッチングアプリ風転職サイト
 ## サイトイメージ
 メインページの画像を貼れると良いです。
 
-![例](リンク)
+![アプリ画像](リンク)
 
 ## サイトURL
 
 デプロイした後のアプリのメインページURLを貼りましょう。  
-https://blogapp-forlecture.vercel.app/
+[https://blogapp-forlecture.vercel.app/](https://job-matching-app.vercel.app/)
 
 
 「画面中部のゲストログインボタンから、メールアドレスとパスワードを入力せずにログインできます。」といった仕様を作れれば、面接官も試しやすいと思います。
