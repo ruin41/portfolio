@@ -6,7 +6,7 @@ Next.jsとSupabaseを用いたSE用のマッチングアプリ風転職サイト
 ## サイトイメージ
 メインページの画像を貼れると良いです。
 
-![アプリ画像](https://github.com/ruin41/portfolio/blob/288cd74d999e799ba55fbfe26f04f14dbac1854c/docs/%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%98%E3%82%9A%E3%83%BC%E3%82%B7%E3%82%99%E7%94%BB%E5%83%8F.png))
+![アプリ画像](https://github.com/ruin41/portfolio/blob/288cd74d999e799ba55fbfe26f04f14dbac1854c/docs/%E3%82%A2%E3%83%95%E3%82%9A%E3%83%AA%E3%81%AE%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%98%E3%82%9A%E3%83%BC%E3%82%B7%E3%82%99%E7%94%BB%E5%83%8F.png)
 
 ## サイトURL
 
