@@ -56,7 +56,7 @@ Next.jsとSupabaseを用いたSE用のマッチングアプリ風転職サイト
 [アプリの改善案_Googleスプレッドシート](https://docs.google.com/spreadsheets/d/1P5C5et2X4FSdpowBbhluUjMu7Lu0RZ84VsPR9geTYJc/edit?gid=482600378#gid=482600378)
 
 ## 備考
-[ESLintの実行結果_GitHub Actions](https://github.com/ruin41/JOB-MATCHING-APP/actions/runs/15914063052)
+[ESLintの実行結果_GitHub Actions](https://github.com/ruin41/JOB-MATCHING-APP/actions/runs/16254381671/job/45888418939)
 
 - 活用した生成AIとその用途
   - ChatGPT：要件定義、設計、各種リサーチ
